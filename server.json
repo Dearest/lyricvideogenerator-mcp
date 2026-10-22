@@ -3,8 +3,12 @@
   "name": "app.lyricvideogenerator/lyric-video",
   "title": "LyricVideoGenerator",
   "description": "Turn a song and its lyrics into a word-synced lyric video, with three styles to choose from.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://lyricvideogenerator.app",
+  "repository": {
+    "url": "https://github.com/Dearest/lyricvideogenerator-mcp",
+    "source": "github"
+  },
   "remotes": [
     {
       "type": "streamable-http",
